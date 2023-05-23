@@ -1,1 +1,1 @@
-#  http://ALL-Activities-in-Web-System.com/
+# ALL-Activities-in-Web-System.com
